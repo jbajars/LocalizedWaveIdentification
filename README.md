@@ -15,11 +15,11 @@ This research has been financially supported by the specific support objective a
 #### Instructions to run the code
 - To perform a numerical simulation of the lattice dynamics, run the file `main.py`.
 - All the parameter values are saved in the dictionary *param* and set in the file `param_val.py`.
-- All functions used during the numerical simulations, applications and visualizations are defined in the folder `functions`.
+- All functions used during the numerical simulations, applications, and visualizations are defined in the folder `functions`.
 - All images are saved in the folder `figures`.
 - To collect different wave data from numerical simulations, run the file `collect_wave_data.py`.
 - All collected wave data from numerical simulations is saved in the folder `saved_sim_data`.
-- To obtain classification algorithms with two dimensionality rediction algorithms run the files `classification_PCA.py` and `classification_LLE`.
+- To obtain classification algorithms with dimensionality reduction algorithms PCA and LLE, run the files `classification_PCA.py` and `classification_LLE.py`, respectively.
 - All trained classification algorithms are saved in the folder `saved_classifiers`.
 - To test and obtain precision and recall scores, run the file `precision_recall_mean.py`.
-- To identify nonlinear localized waves in numerical simulations using the built classification algorithms and sliding window approac, run the file `main_aaplications.py`, where all the data is saved in the folder `saved_applications_data`.
+- To identify nonlinear localized waves in numerical simulations using the built classification algorithms and sliding window approach, run the file `main_applications.py`, where all the data is saved in the folder `saved_applications_data`.

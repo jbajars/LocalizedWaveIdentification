@@ -1,6 +1,6 @@
 # LocalizedWaveIdentification
 
-File `SplittingMethods_PureCode_WithoutData.zip` contains pure code without precomputed data and images.
+File `LocalizedWaveIdentification_PureCode_WithoutData.zip` contains pure code without precomputed data and images.
 
 <p float="left">
   <img src="figures/LLE_X_linear_Nsim1000Nd6.png" width="30%" /> &nbsp;    
